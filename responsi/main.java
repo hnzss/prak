@@ -15,7 +15,7 @@ public class main {
         char1.useSkill(1);
         char1.useSkill(1);
         char1.useSkill(1);
-        System.out.println("character 3");
+        System.out.println("character 2");
         physical char2 = new humanKnight("budi",200);
         ((humanKnight) char2).check();
         ((humanKnight) char2).setSkill("sword dance");
@@ -25,7 +25,7 @@ public class main {
         char2.basicAttack();
         char2.useSkill(1);
         char2.useSkill(2);
-        System.out.println("character 2");
+        System.out.println("character 3");
         magical char3 = new orcShaman("samson",200);
         ((orcShaman) char3).check();
         ((orcShaman) char3).setSkill("blood shot");
