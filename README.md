@@ -12,8 +12,8 @@ NIM  : H1D025080 (GAME)
 5. menguji implementasi interface
 6. menguji conditional statement method
 
-<img width="681" height="379" alt="image" src="https://github.com/user-attachments/assets/f8d5c93b-b1d1-4e5a-86ab-dacc3f8d37c5" />
-<img width="454" height="430" alt="image" src="https://github.com/user-attachments/assets/9ec2767a-a7a7-4e12-ab7d-01cf5da475cd" />
-<img width="581" height="425" alt="image" src="https://github.com/user-attachments/assets/b45cd19b-4aaf-431e-aa4c-bb2abd630af8" />
-<img width="444" height="416" alt="image" src="https://github.com/user-attachments/assets/3153a799-a9c8-4d0d-af78-7ca11b55c703" />
-<img width="350" height="251" alt="image" src="https://github.com/user-attachments/assets/a9fb2df5-2fed-46a0-a555-a92e0c6a5d81" />
+<img width="674" height="444" alt="image" src="https://github.com/user-attachments/assets/45b88c14-ae34-46aa-b06a-8ce87fcf5a3e" />
+<img width="456" height="449" alt="image" src="https://github.com/user-attachments/assets/fb642c4e-9c1d-4401-b992-19de7d6e95f4" />
+<img width="513" height="450" alt="image" src="https://github.com/user-attachments/assets/dd707aeb-383c-4556-ab7b-be315474fb5c" />
+<img width="359" height="220" alt="image" src="https://github.com/user-attachments/assets/b17dd775-8d9e-4cf6-830e-6d46220eda86" />
+
