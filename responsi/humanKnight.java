@@ -26,7 +26,7 @@ public class humanKnight extends karakter implements human,physical{
     }
     public int skillCost(int i){
         int cost = mana - (i*30);
-        if (mana >= 0){
+        if (cost >= 0){
             mana = cost;
         }
         return cost;
